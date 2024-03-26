@@ -1,6 +1,8 @@
 # Todo App with Context API and Local Storage
 
 This project is a simple Todo List application built using React, implementing the Context API for state management and local storage to persist the todos even after a page refresh. This allows users to create, read, update, and delete todo items.
+![image](https://github.com/yash-25log/context/assets/58944204/774155a0-9a09-4028-b438-32355108d4b1)
+
 
 ## Features
 
